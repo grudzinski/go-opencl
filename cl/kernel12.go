@@ -2,7 +2,7 @@
 
 package cl
 
-// #import "cl.h"
+// #import <OpenCL/OpenCL.h>
 import "C"
 import "unsafe"
 
